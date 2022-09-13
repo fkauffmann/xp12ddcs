@@ -6,3 +6,7 @@
 ### Usage
 - Download and copy xp12ddcs.cmd in the root folder of the aircraft you want to check
 - Double-click on xp12.ddcs.cmd
+
+### Sample output
+
+![Sample output](https://raw.githubusercontent.com/fkauffmann/xp12ddcs/main/output.jpg)

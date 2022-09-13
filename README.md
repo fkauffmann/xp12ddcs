@@ -9,4 +9,4 @@
 
 ### Sample output
 
-![Sample output](https://raw.githubusercontent.com/fkauffmann/xp12ddcs/main/output.jpg)
+![Sample output](https://raw.githubusercontent.com/fkauffmann/xp12ddcs/main/usage.jpg)

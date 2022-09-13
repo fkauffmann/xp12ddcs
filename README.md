@@ -1,2 +1,2 @@
 # xp12ddcs
-XP12 Deprecated Datarefs and Commands Scanne
+XP12 Deprecated Datarefs and Commands Scanner

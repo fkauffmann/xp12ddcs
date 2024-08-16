@@ -1,5 +1,5 @@
 # xp12ddcs
-## X-Plane 12 Deprecated Datarefs and Commands Scanner for Windows 10/11
+## X-Plane 12 Deprecated Datarefs & Commands Scanner for Windows 10/11
 
 > This script scans OBJ, SND and LUA files for deprecated datarefs and commands, to help the community to adapt their XP11 addons to XP12.
 
